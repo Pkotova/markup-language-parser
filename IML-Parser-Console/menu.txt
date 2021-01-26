@@ -1,0 +1,8 @@
+		IML REPOSITORY
+	      By Petya fn. 71866
+_____________________________________________
+	 MANAGEMENT VIEW HELP/MENU
+
+PRESS [1] for using the filesystem of the app
+PRESS [2] for using the parser as interpeter
+PRESS [3] for exit

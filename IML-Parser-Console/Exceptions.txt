@@ -1,0 +1,36 @@
+100
+: Missing openning tag
+102
+: Missing closing tag
+103
+: Unknown tag used
+101
+: Missing "<"
+104
+: Missing ">"
+105
+: Missing ""
+106
+: Missing "/"
+107
+: Missing "-"
+108
+: Missing parameters
+109
+: Too much parameters
+110
+: Unknown parameter types used
+111
+: Illogical data used between tags
+112
+: Non-numeric data used
+113
+: Nesting error
+120
+: Missing or too much attributes
+130
+: File doesnt exist
+140
+: File is empty
+150
+: Unsupported file
